@@ -1,0 +1,1 @@
+print("Hello world")#THIS IS TO PRINT HELLO WORLD IN OUTPUT SCREEN
